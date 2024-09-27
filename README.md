@@ -17,8 +17,12 @@ Welcome to my projects repository! This repository contains a collection of smal
 - **Directory**: [todo-list](todo-list)
 - **Technologies Used**: Python
 ### 2.  Quiz Application
-- **Description**: A command-line tool that allows users to answer multiple-choice quiz questions. The application collects user responses and calculates the total score based on correct answers..
+- **Description**: A command-line tool that allows users to answer multiple-choice quiz questions. The application collects user responses and calculates the total score based on correct answers.
 - **Directory**: [quiz-application](quiz-application)
+- **Technologies Used**: Python
+### 3. Contact Book Application
+- **Description**: A command-line application that enables users to manage their contacts. Users can create, view, update, delete, and search for contacts easily.
+- **Directory**: [contact-book](contact-book)
 - **Technologies Used**: Python
 
 ## Installation
