@@ -1,7 +1,27 @@
-# TO-DO-LIST
-The Todo List Application is a simple command-line tool built in Python that helps users manage their tasks efficiently. With this application, users can add new tasks, view existing tasks, and delete tasks they no longer need. It provides a user-friendly interface for task management, making it easier to stay organized.
-# Features
-Add Task: Users can add tasks to their list, which are stored in memory.
-Show Tasks: Displays all current tasks with their respective numbers for easy reference.
-Delete Task: Allows users to delete tasks by selecting the corresponding number from the list.
-User Interaction: A simple menu-driven interface that guides users through various options.
+# My Projects Repository
+
+Welcome to my projects repository! This repository contains a collection of small and medium-sized projects that I have developed to enhance my programming skills in Python. Each project is designed to demonstrate various concepts and techniques, and is organized into its own directory.
+
+## Table of Contents
+- [Projects](#projects)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
+
+## Projects
+
+### 1. Todo List Application
+- **Description**: A command-line application to manage daily tasks efficiently. Users can add, view, and delete tasks easily.
+- **Directory**: [todo-list](todo-list)
+- **Technologies Used**: Python
+### 2.  Quiz Application
+_ **Description**: A command-line tool that allows users to answer multiple-choice quiz questions. The application collects user responses and calculates the total score based on correct answers.
+_**Directory**: quiz-application
+_**Technologies** Used: Python
+
+## Installation
+To get started with any of these projects, clone this repository to your local machine:
+```bash
+git clone https://github.com/yourusername/my-projects-repo.git
