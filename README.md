@@ -18,8 +18,8 @@ Welcome to my projects repository! This repository contains a collection of smal
 - **Technologies Used**: Python
 ### 2.  Quiz Application
 _ **Description**: A command-line tool that allows users to answer multiple-choice quiz questions. The application collects user responses and calculates the total score based on correct answers.
-_**Directory**: quiz-application
-_**Technologies** Used: Python
+_ **Directory**: quiz-application
+_ **Technologies** Used: Python
 
 ## Installation
 To get started with any of these projects, clone this repository to your local machine:
