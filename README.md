@@ -31,4 +31,4 @@ Welcome to my projects repository! This repository contains a collection of smal
 ## Installation
 To get started with any of these projects, clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/my-projects-repo.git
+git clone https://github.com/KumarSunny17/Python_Project
