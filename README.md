@@ -5,10 +5,6 @@ Welcome to my projects repository! This repository contains a collection of smal
 ## Table of Contents
 - [Projects](#projects)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
 
 ## Projects
 
